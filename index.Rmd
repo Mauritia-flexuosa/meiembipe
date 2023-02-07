@@ -1,0 +1,25 @@
+# Localização e Limites da ReViS Meiembipe
+
+### Refúgio da Vida Silvestre Municipal Meiembipe
+
+
+- Mais informações:
+
+- [ReVis Meiembipe](http://www.pmf.sc.gov.br/entidades/floram/index.php?cms=revis+meiembipe&menu=7&submenuid=800)
+
+- [Sistema Nacional de Unidades de Conservação](https://www.planalto.gov.br/ccivil_03/LEIS/L9985.htm#art55)
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+```{r mapa, echo=FALSE, warning=FALSE, message=FALSE}
+
+source("/home/marcio/Documentos/Doutorado/Meiembipe/script_1.R")
+
+UC
+```
+
+
+O código pode ser obtido nem [Mauritia-flexuosa](https://github.com/Mauritia-flexuosa)
