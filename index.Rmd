@@ -2,7 +2,7 @@
 
 ### Refúgio da Vida Silvestre Municipal Meiembipe
 
-
+O mapa mostra os limites da ReViS Meiembique em vermelho e em azul a zona de amortecimento de 30 metros.
 - Mais informações:
 
 - [ReVis Meiembipe](http://www.pmf.sc.gov.br/entidades/floram/index.php?cms=revis+meiembipe&menu=7&submenuid=800)
@@ -16,10 +16,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```{r mapa, echo=FALSE, warning=FALSE, message=FALSE}
 
-source("/home/marcio/Documentos/Doutorado/Meiembipe/script_1.R")
+source("/home/mcure/Documents/meiembipe/meiembipe_limites/script_1.R")
 
 UC
 ```
 
 
-O código pode ser obtido nem [Mauritia-flexuosa](https://github.com/Mauritia-flexuosa)
+Desenvolvido por Marcio B Cure. O código pode ser obtido em [Mauritia-flexuosa](https://github.com/Mauritia-flexuosa)
